@@ -1,3 +1,4 @@
+# %%
 import numpy as np
 # %% 与门的实现
 def AND(x1, x2):

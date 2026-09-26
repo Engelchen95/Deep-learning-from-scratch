@@ -1,0 +1,18 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据集、模型权重文件
+dataset/*.gz
+dataset/*.pkl
+*.pkl
+
+# 虚拟环境
+venv/
+env/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
